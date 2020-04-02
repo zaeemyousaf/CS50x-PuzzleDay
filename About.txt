@@ -1,0 +1,8 @@
+Author:
+	Hissan Ahmad
+	Zaeem Yousaf
+Media for communication:
+	https://github.com/hassaanahmad47/CS50x-PuzzleDay
+Language:
+	python
+

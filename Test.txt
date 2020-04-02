@@ -1,1 +1,10 @@
-Hello World
+Authors:
+	Hissan Ahmad
+	Zaeem Yousaf
+Purpose:
+	Solving a problem
+Language:
+	Python
+Media for communication:
+	github: https://github.com/hassaanahmad47/CS50x-PuzzleDay
+
