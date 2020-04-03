@@ -1,0 +1,14 @@
+# target: find numerator and denominator
+# uniqueness: 
+'''
+numirator: 6 digit
+denominator: 2 digit
+10th place of denominator is : 1
+denominator completely devides the numerator
+denominator also completely devides the firt last four digits of numerator
+least significant digit of numirator is 4
+second least significant seems 1, but not sure
+second most significant digit is 7
+
+numerator: 
+'''
